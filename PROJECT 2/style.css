@@ -25,7 +25,7 @@ h1 {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 40px;
+    width: 400px;
     height: 200px;
     margin: 10px;
     border-radius: 10px;
@@ -38,7 +38,7 @@ h1 {
 }
 
 .box.show {
-    transform: translate(0);
+    transform: translateX(0);
 }
 
 .box h2 {
